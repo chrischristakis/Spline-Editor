@@ -9,6 +9,6 @@ A program made in C++ to create and edit splines made in (immediate) OpenGL
 
 ## How do I get it?
 I published an exe at the side as release V1.0, feeel free to use that.
-If you want to compile it yourself, I did it in Visual Studio 2022 using with the additional includes:
+If you want to compile it yourself, I did it in Visual Studio 2022 using the additional includes:
 - GLFW
 - GLEW
