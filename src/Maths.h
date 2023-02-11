@@ -1,7 +1,6 @@
 #ifndef MATHS_H
 #define MATHS_H
 #include <cmath>
-#include <iostream>
 
 /* Header only implementation where maths and util functions will be for this project. */
 
